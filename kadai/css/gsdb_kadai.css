@@ -1,0 +1,75 @@
+#top {
+    display: flex;
+    justify-content: space-around
+}
+
+#logo1 {
+    margin-right: 750px;
+}
+
+#logo2 {
+    text-align: right;
+}
+
+#title {
+    background-image: url("../picture/gs_07_dev.jpg");
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#titlep {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#title2 {
+    margin-bottom: 0px;
+}
+
+#title3 {
+    margin-top: 0px;
+}
+
+#button {
+    display: flex;
+    justify-content: space-between;
+}
+
+#button1 {
+    background-color: darkblue;
+    border: 1px solid #111;
+    color: aliceblue;
+    width: 300px;
+    margin: 40px auto;
+    margin-top: 0px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-left: 150px;
+}
+
+#button2 {
+    background-color: darkblue;
+    border: 1px solid #333;
+    color: aliceblue;
+    width: 300px;
+    margin: 40px auto;
+    margin-top: 0px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-right: 150px;
+}
+
+#button:hover {
+    background-color: #fff;
+    border-color: #59b1eb;
+    color: #59b1eb;
+    cursor: pointer;
+}
+
+#title {
+    font-size:
+}

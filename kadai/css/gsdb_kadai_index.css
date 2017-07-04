@@ -1,0 +1,92 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#link {
+    display: flex;
+    text-align: right;
+}
+
+#logo {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#top1 {
+    font-size: 17px;
+    padding-right: 30px;
+    color: black;
+    border-left-style: solid;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#top2 {
+    font-size: 17px;
+    color: black;
+    border-left-style: solid;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.list {
+    margin-bottom: 0px;
+    font-weight: bold;
+    color: darkblue;
+    background-color: aliceblue;
+}
+
+.form {
+    border: solid 1px #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+#f2 {
+    width: 300px;
+}
+
+#f8 {
+    width: 300px;
+}
+
+#f3 {
+    width: 300px;
+}
+
+#f5 {
+    width: 400px;
+    height: 20px;
+}
+
+#f6 {
+    width: 400px;
+    height: 40px;
+}
+
+#f7 {
+    width: 400px;
+    height: 20px;
+}
+
+.touroku {
+    padding-left: 200px;
+    background-image: url(../picture/gs_07_dev.jpg);
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.button {
+    margin-left: 400px;
+    width: 100px;
+    background-color: floralwhite;
+    margin: 20px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}

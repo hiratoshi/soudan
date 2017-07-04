@@ -1,0 +1,66 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#link {
+    display: grid;
+    text-align: right;
+}
+
+#logo {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#top0 {
+    padding-right: 30px;
+    margin-bottom: 0px;
+}
+
+#top1 {
+    font-size: 17px;
+    padding-right: 30px;
+    color: black;
+    border-left-style: solid;
+    padding-left: 30px;
+    margin-top: 5px;
+    padding-top: 0px;
+}
+
+#table {
+    padding-left: 80px;
+    background-image: url(../picture/gs_07_dev.jpg);
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    padding-right: 80px;
+}
+
+#link2 {
+    display: flex;
+    text-align: right;
+}
+
+#messege {
+    font-size: 330px;
+}
+
+#tab {
+    margin-top: 50px;
+    background-color: aliceblue;
+    border-collapse: collapse;
+    border: 1px solid #333;
+    vertical-align: middle;
+}
+
+.th1 {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#1 {
+    vertical-align: middle;
+}
